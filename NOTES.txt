@@ -1,0 +1,3 @@
+Ser has not conditional as it changes depending on +ve / -ve 
+Tener has none of the variations for vos or its plural 
+tendran is the same for future and conditional, idk what to do about that
